@@ -1,16 +1,45 @@
-## Hi there 👋
+<!--h1 without bottom border-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChristianUtria/ChristianUtria/main/backgroundF_Nuevo.png" alt="banner" width="100%">
+</p>
+<h2 align="center">Mi Perfil Profesional </h2>
+Desarrollador de software enfocado en la creación de soluciones prácticas orientadas a la resolución de problemas reales.
+Cuento con experiencia en el desarrollo de aplicaciones completas, abarcando desde el diseño y gestión de bases de datos hasta la implementación de interfaces de usuario.
+Poseo sólidos fundamentos en lógica de programación, estructuras de datos y resolución de problemas, lo que me permite adaptarme de manera eficiente a nuevos lenguajes, frameworks y tecnologías.
+Me especializo en Python y JavaScript, y mantengo un interés activo en el ecosistema open source, contribuyendo con código limpio, mantenible y de calidad.
 
-<!--
-**ChristianUtria/ChristianUtria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h2 align="center">Certificados </h2>
 
-Here are some ideas to get you started:
+```python
+certificaciones_profesionales = [
+    "Certificado Profesional Desarrollador Python — Microsoft",
+    "Python for Everybody — University of Michigan",
+    "Introducción al Desarrollo Back-End — Meta",
+    "Google Cloud Compute Skill Badge — Google",
+    "Scrum Master — LearnQuest",
+    "Desarrollador de Software — Universidad de los Andes"
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+for certificacion in certificaciones_profesionales:
+    print(certificacion)
+```
+
+
+<h2 align="center"> </h2>
+
+<p align="center">
+<a href="https://github.com/ChristianUtria">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristianUtria&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianUtria&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+<h2 align="center">Contribuciones </h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianUtria&theme=github_dark" />
+</p>
+
