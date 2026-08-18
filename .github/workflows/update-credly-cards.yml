@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
 
       - name: Generate Credly cards
-        run: python3 scripts/generate_credly_cards.py christian-utria --out-dir .
+        run: python3 script/generate_credly_cards.py christian-utria --out-dir .
 
       - name: Commit changes
         run: |
